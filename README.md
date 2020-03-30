@@ -1,4 +1,4 @@
-# Build a Simple Calculator
+# Build a Si  mple Calculator
 
 ## Learning Goals
 
@@ -22,7 +22,7 @@ of the following methods:
 
 - `addition` - Build the method `addition` that adds `num2` to `num1` and returns the result of this calculation
 - `subtraction` - Build the method `subtraction` that subtracts `num2` from
-  `num1` and returns the result of this calculation
+  `num1` and returns the result of this calculation 
 - `multiplication` - Build the method `multiplication` that multiplies `num1`
   by `num2` and returns the result of this calculation
 - `division` - Build the method `division` that divides `num2` into `num1` and returns the result of this calculation
